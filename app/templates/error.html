@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="Yusuff Mustapha">
+    <title>Error!</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
+</head>
+
+<body>
+    <section id="wrapper" class="error-page">
+        <div class="error-box">
+            <div class="error-body text-center">
+                <h1 class="text-danger">{{ error[:3] }}</h1>
+                <h3 class="text-uppercase"> {{ error.split(':')[0] }} </h3>
+                <p class="text-muted mt-4 mb-4">{{ error.split(':')[1] }}</p>
+                <a href="{{ url_for('index') }}" class="btn btn-info btn-rounded mb-5">Back to home</a> </div>
+        </div>
+    </section>
+</body>
+</html>
