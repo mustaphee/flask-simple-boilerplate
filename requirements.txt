@@ -8,3 +8,4 @@ Gunicorn==19.9.0
 coverage==4.5.3
 Flask-Script==2.0.6
 Sqlalchemy-Utils==0.33.4
+PyMySQL==0.9.3

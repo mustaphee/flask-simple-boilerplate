@@ -51,6 +51,7 @@ Dependencies
 - **Flask**
 - **Flask-Migrate**
 - **Flask-Psycopg2**
+- **PyMySQL**
 - **Flask-SQLAlchemy**
 - **Pytest**
 - **coverage**
