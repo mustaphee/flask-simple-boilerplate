@@ -33,7 +33,7 @@ To use, simply download, fork or clone this repository, then:
 
 ``$ pip install -r requirements.txt``
 
-``$ python runserver.py``
+``$ python run_server.py``
 
 ``✨🍰``
 
