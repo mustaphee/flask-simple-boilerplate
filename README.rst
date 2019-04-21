@@ -37,6 +37,7 @@ To use, simply download, fork or clone this repository, then:
 
 ``✨🍰``
 
+Dont forget to add .env file to your root folder (Rename .env-example to .env with your dev configurations)
 
 Run Test
 --------
