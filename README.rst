@@ -4,7 +4,7 @@ Flask Simple Boilerplate: For everyone
 
 This is *probably* the easiest and the most documented flask boilerplate app.
 It uses an MVC folder structure and pattern which is a bonus if you're used
-to MVC pattern (*you can easily change it if you're not an MVC fan *).
+to MVC pattern ( *you can easily change it if you're not an MVC fan* ).
 It has all the setup done for you, so you only have to focus on writing your business
 logic. It also has installed all the basic libraries installed for you already.
 
@@ -27,21 +27,26 @@ Installation
 
 To use, simply download, fork or clone this repository, then:
 
-``` {.sourceCode .bash}
+``
 $ git clone https://github.com/mustaphee/flask-simple-boilerplate
+
 $ cd flask-simple-boilerplate
+
 $ pip install -r requirements.txt
+
 $ python runserver.py
+
 ✨🍰✨
-```
+``
 
 Run Test
 --------
 To run the test, run:
-``` {.sourceCode .bash}
+``
 $ python run_test.py
+
 ✨✨
-```
+``
 
 Dependencies
 ------------
