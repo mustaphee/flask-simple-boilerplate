@@ -27,26 +27,23 @@ Installation
 
 To use, simply download, fork or clone this repository, then:
 
-``
-$ git clone https://github.com/mustaphee/flask-simple-boilerplate
+``$ git clone https://github.com/mustaphee/flask-simple-boilerplate``
 
-$ cd flask-simple-boilerplate
+``$ cd flask-simple-boilerplate``
 
-$ pip install -r requirements.txt
+``$ pip install -r requirements.txt``
 
-$ python runserver.py
+``$ python runserver.py``
 
-✨🍰✨
-``
+``✨🍰``
+
 
 Run Test
 --------
 To run the test, run:
-``
-$ python run_test.py
+``$ python run_test.py``
 
-✨✨
-``
+``✨``
 
 Dependencies
 ------------
