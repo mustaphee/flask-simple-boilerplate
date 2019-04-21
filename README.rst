@@ -42,9 +42,8 @@ Dont forget to add .env file to your root folder (Rename .env-example to .env wi
 Run Test
 --------
 To run the test, run:
-``$ python run_test.py``
 
-``✨``
+``$ python run_test.py✨``
 
 Dependencies
 ------------
