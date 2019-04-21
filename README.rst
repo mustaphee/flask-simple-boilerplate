@@ -51,8 +51,8 @@ Dependencies
 - **Flask-SQLAlchemy**
 - **Pytest**
 - **coverage**
-
-
+- **Bootstrap**
+- **jQuery**
 How to Contribute
 -----------------
 I would love any contribution which would make this project.
