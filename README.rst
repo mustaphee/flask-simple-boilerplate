@@ -15,6 +15,7 @@ Flask simple boilerplate is easy, scalable, ready to use and deploy
 
 -   Get your app ready in no time.
 -   MVC architecture.
+-   Prebundled error pages and serves automatically.
 -   Well unit tested.
 -   Integrate well with MySQL and PostgreSQL.
 -   Deploy in one-click to Heroku.
